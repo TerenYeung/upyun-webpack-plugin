@@ -96,4 +96,10 @@ module.exports = {
 }
 ```
 
+---
+<h2 align="center">Related</h2>
+
+[upyun js sdk](https://github.com/upyun/node-sdk)
+
+[upyun-js](https://github.com/TerenYeung/upyun-js)
 
