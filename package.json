@@ -1,0 +1,27 @@
+{
+  "name": "upyun-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a webpack plugin of upyun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TerenYeung/upyun-webpack-plugin.git"
+  },
+  "keywords": [
+    "upyun",
+    "webpack",
+    "plugin"
+  ],
+  "author": "terenyeung@gmail.com",
+  "license": "Anti 996",
+  "bugs": {
+    "url": "https://github.com/TerenYeung/upyun-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/TerenYeung/upyun-webpack-plugin#readme",
+  "dependencies": {
+    "upyun-js": "^1.0.2"
+  }
+}
